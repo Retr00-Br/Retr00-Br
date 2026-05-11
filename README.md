@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Tools" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" />
@@ -36,7 +37,7 @@
 ---
 
 ### 🖥️ Softwares que Domino
-- **Dados & Cloud:** PySpark, BigQuery, AWS, MySQL Workbench, Power BI.
+- **Dados & Cloud:** PySpark, BigQuery, AWS, MySQL Workbench, Looker Studio, Power BI.
 - **Sistemas:** WSL (Windows Subsystem for Linux), Distribuições Linux.
 - **Desenvolvimento (IDEs):** PyCharm, Spyder.
 - **Produtividade:** Ferramentas Google e Pacote Office.
