@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Barbosa de Andrade! 👋
 
 ### 👨‍💻 Sobre Mim
-- 📊 **Analista & Engenheiro de Dados em Formação** com foco em SQL e Python.
+- 📊 **Analista & Engenheiro de Dados em Formação** com foco em Pipelines de ETL, Manipulação de Dados em Escala (Python/PySpark/SQL) e Ambientes Cloud (AWS).
 - 🎓 Estudante de **ADS (PUCPR)** e **Informática para Negócios (Fatec)**.
 
 ---
