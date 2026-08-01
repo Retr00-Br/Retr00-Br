@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Barbosa de Andrade! 👋
 
 ### 👨‍💻 Sobre Mim
-- 📊 **Cientista de Dados em formação** com foco em SQL e Python.
+- 📊 **Analista & Engenheiro de Dados em Formação** com foco em SQL e Python.
 - 🎓 Estudante de **ADS (PUCPR)** e **Informática para Negócios (Fatec)**.
 
 ---
@@ -19,9 +19,10 @@
 
 ---
 
-### 🛠️ Minha Stack
+### 🛠️ Minhas Stacks
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
