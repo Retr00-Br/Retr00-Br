@@ -1,33 +1,33 @@
 # Prazer, Pedro Barbosa de Andrade (Retr00-BR)! 👋
 
 ### 👨‍💻 Sobre Mim
-- 📊 **Analytics Engineer & Analista de Dados Jr** com sólida experiência em engenharia e análise de dados, automação de processos, pipelines, manipulação de dados em escala, BI e ambientes Cloud[cite: 4, 5].
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (PUCPR)** e **Informática para Negócios (Fatec)**[cite: 4].
-- 📍 Baseado em Diadema - SP[cite: 4].
+- 📊 **Analytics Engineer & Analista de Dados Jr** com sólida experiência em engenharia e análise de dados, automação de processos, pipelines, manipulação de dados em escala, BI e ambientes Cloud
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (PUCPR)** e **Informática para Negócios (Fatec)**
+- 📍 Baseado em Diadema - SP
 
 ---
 
 ### 💼 Experiência Profissional
-- **Analista de Dados Jr | Master Higimed** *(Set 2026 - Atual)* — Desenvolvimento de sistemas e portais interativos para medição de KPIs (Streamlit, Pandas, NumPy, Plotly, Supabase, HTML/CSS), higienização sistêmica e estruturação de pipelines de BI[cite: 5].
-- **Auxiliar de Transportes | Master Higimed** *(Jul 2026 - Ago 2026)* — Foco em automação de sistemas (Streamlit + Supabase), auditoria fiscal e otimização de fluxos operacionais[cite: 5].
-- **Jovem Aprendiz em Assistente Administrativo | Master Higimed** *(Jan 2026 - Jun 2026)* — Tratamento de dados em Python, automação de XMLs para CSV, relatórios em Plotly e operação de ERPs (Totvs Protheus, Qubex)[cite: 5].
-- **Auxiliar de Secretariado / Jovem Aprendiz | Fruiz Advocacia** *(Ago 2024 - Out 2025)* — Gestão de ERP jurídico (Astrea), controle financeiro, conciliação e operação em portais de tribunais[cite: 4, 5].
+- **Analista de Dados Jr | Master Higimed** *(Set 2026 - Atual)* — Desenvolvimento de sistemas e portais interativos para medição de KPIs (Streamlit, Pandas, NumPy, Plotly, Supabase, HTML/CSS), higienização sistêmica e estruturação de pipelines de BI
+- **Auxiliar de Transportes | Master Higimed** *(Jul 2026 - Ago 2026)* — Foco em automação de sistemas (Streamlit + Supabase), auditoria fiscal e otimização de fluxos operacionais
+- **Jovem Aprendiz em Assistente Administrativo | Master Higimed** *(Jan 2026 - Jun 2026)* — Tratamento de dados em Python, automação de XMLs para CSV, relatórios em Plotly e operação de ERPs (Totvs Protheus, Qubex)
+- **Auxiliar de Secretariado / Jovem Aprendiz | Fruiz Advocacia** *(Ago 2024 - Out 2025)* — Gestão de ERP jurídico (Astrea), controle financeiro, conciliação e operação em portais de tribunais
 
 ---
 
 ### 📚 Cursos & Formações Extras
-- 📊 **Profissionalizante: Analista de Dados** — EBAC[cite: 6]
-- 🐍 **Introdução ao Machine Learning com Python** — USP[cite: 6]
-- 🤖 **GenAI & Dados** — DIO[cite: 6]
-- 📉 **Introdução à Ciência de Dados** — FGV[cite: 6]
-- ☁️ **Fundamentos de Cloud com AWS** — DIO[cite: 6]
-- 🐍 **Python para Análise de Dados** — EBAC[cite: 6]
-- 🤖 **Agentes de IA em Campo** — DIO[cite: 6]
+- 📊 **Profissionalizante: Analista de Dados** — EBAC
+- 🐍 **Introdução ao Machine Learning com Python** — USP
+- 🤖 **GenAI & Dados** — DIO
+- 📉 **Introdução à Ciência de Dados** — FGV
+- ☁️ **Fundamentos de Cloud com AWS** — DIO
+- 🐍 **Python para Análise de Dados** — EBAC
+- 🤖 **Agentes de IA em Campo** — DIO
 
 ---
 
 ### 🎓 Certificações e Premiações
-- 🥈 **Olimpíada de Matemática do Estado de São Paulo (OMASP 2025)**: Medalha de Prata[cite: 6].
+- 🥈 **Olimpíada de Matemática do Estado de São Paulo (OMASP 2025)**: Medalha de Prata
 
 ---
 
@@ -76,8 +76,8 @@
 
 ### 🌐 Idiomas
 - **Português:** Nativo
-- **Espanhol:** Avançado[cite: 6]
-- **Inglês:** Intermediário[cite: 6]
+- **Espanhol:** Avançado
+- **Inglês:** Intermediário
 
 ---
 
