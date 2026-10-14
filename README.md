@@ -3,7 +3,6 @@
 ### 👨‍💻 Sobre Mim
 - 📊 **Analytics Engineer & Analista de Dados Jr** com sólida experiência em engenharia e análise de dados, automação de processos, pipelines, manipulação de dados em escala, BI e ambientes Cloud
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (PUCPR)** e **Informática para Negócios (Fatec)**
-- 📍 Baseado em Diadema - SP
 
 ---
 
